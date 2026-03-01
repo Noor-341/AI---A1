@@ -1,8 +1,4 @@
-"""
-Dynamic Pathfinding Agent
-AI Assignment 2 - Spring 2026
-Single File Implementation using Pygame
-"""
+
 
 import pygame
 import random
@@ -700,4 +696,5 @@ def main():
     app.run()
 
 if __name__ == "__main__":
+
     main()
