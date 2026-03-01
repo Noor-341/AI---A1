@@ -7,8 +7,6 @@
   - Noor Ul Huda (24F-0734)
   - Muhammad Ammar (24F-0716)
 
-## 📂 Repository Link
-https://github.com/Moor-341/-AI-A1
 
 ## 🎯 Description
 This project implements 6 uninformed search algorithms in a 10×10 grid environment. The goal is to navigate from Start (S) at (0,0) to Target (T) at (9,9) while avoiding static walls.
